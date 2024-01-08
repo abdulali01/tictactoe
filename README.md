@@ -47,6 +47,7 @@ Condition to only show players option.
 
 4.  Highlight the Winner.
 Working with CSS to highlight the winner on the board.
-
+Git: https://abdulali01.github.io/tictactoe/
+Code Git: https://github.com/abdulali01/tictactoe
 
 
