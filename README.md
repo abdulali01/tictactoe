@@ -31,6 +31,7 @@ Future Improvements:
 
 Implementation:
 Condition to disable the open buttons once a row is completed. validation on each step
+Mount and unmount components will also play that role.
 
 2. Once a row is made, feature will highlight the boxes and make it standout from rest of the board.
 Implement: CSS className to highlight completed row. Conditional as well
